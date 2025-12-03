@@ -133,7 +133,7 @@ modelscope download --model sentence-transformers/all-MiniLM-L6-v2 --local_dir .
 #### 2.1 Configure Paths
 
 Modify the configuration file: `.ScaleSQL/workflows/config/pipeline_config.yaml`.
-Note that, we need column meaning file in the evaluation.
+Note that, we need column meaning file in the evaluation. You can find the file in [TA-SQL](https://github.com/quge2023/TA-SQL).
 
 ```yaml
 dataset_folder: /temp/bird_test  # Change to the actual folder
