@@ -188,11 +188,14 @@ bash ddl_schema.sh
 ---
 
 ## 📦 Try Our Product
-We are developing a **ChatBI** product that transforms complex business data into clear, conversational insights. With ChatBI, you can interact with your data in natural language, quickly explore metrics, and generate analytical reports without needing deep technical or BI expertise.
+Unlock the power of your business data with natural language. We are excited to introduce **Data Agent**, our cutting-edge ChatBI product designed to transform complex data into clear, conversational insights.
 
-If you are interested in trying our ChatBI product, please visit our product page or contact us:
+Simply ask questions in plain English, and let Data Agent handle the complex queries for you. No code, no steep learning curve—just instant answers.
 
-- 🌐 Official product page: https://antdigital.com/products/DataAgent
+- **Official Website**: For a detailed overview, features, and use cases, please visit our product page:
+  **[https://antdigital.com/products/DataAgent](https://antdigital.com/products/DataAgent)**
+
+- **Early Access & Feedback**: If you are interested in trying our product and providing valuable feedback, please feel free to contact us.
 
 <figure>
   <img src="./resources/dingding.png" 
