@@ -2,7 +2,8 @@
 
 <div align="center">
 
-[![Paper](https://img.shields.io/badge/paper-arXiv-red)](https://arxiv.org/abs/2509.24403)
+[![Product](https://img.shields.io/badge/Product-Website-purple)](https://antdigital.com/products/DataAgent)
+[![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2509.24403)
 [![Leaderboard](https://img.shields.io/badge/BIRD%20Leaderboard-%231-brightgreen)](https://bird-bench.github.io/)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-yellow)](https://huggingface.co/collections/antgroup/agentar-scale-sql)
 [![ModelScope](https://img.shields.io/badge/ModelScope-Models-blue)](https://modelscope.cn/collections/Agentar-Scale-SQL-0c368e98f73f41)
@@ -187,8 +188,11 @@ bash ddl_schema.sh
 ---
 
 ## 📦 Try Our Product
+We are developing a **ChatBI** product that transforms complex business data into clear, conversational insights. With ChatBI, you can interact with your data in natural language, quickly explore metrics, and generate analytical reports without needing deep technical or BI expertise.
 
-We are developing a ChatBI product that transforms complex business data into conversational insights. If you are interested in trying our ChatBI product, please contact us.
+If you are interested in trying our ChatBI product, please visit our product page or contact us:
+
+- 🌐 Official product page: https://antdigital.com/products/DataAgent
 
 <figure>
   <img src="./resources/dingding.png" 
