@@ -57,7 +57,7 @@ We are committed to continuously improving **Agentar-Scale-SQL**. Here is our pl
     - [x] Release **Agentar-Scale-SQL-Generation-32B** on Hugging Face and ModelScope.
     - [ ] Release **Agentar-Scale-SQL-Selection-32B** on Hugging Face and ModelScope.
 -   **Code Releases**
-    - [x] Release the code for the **Light Schema** engine.
+    - [x] Release the code for the **Light Schema Engine**.
     - [x] Release the code for the **Offline Data Preprocessing Pipeline**.
     - [ ] Release the code for **Task Understanding** and **Generating SQL Candidates with ICL Generators**.
     - [ ] Release the code for **Generating SQL Candidates with the Reasoning Generator**.
