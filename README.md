@@ -52,16 +52,17 @@
 We are committed to continuously improving **Agentar-Scale-SQL**. Here is our plan for upcoming features and releases.
 
 -   **Paper**
-    - [x] Publish the paper on arXiv.
+    - [x] Publish the **Paper** on arXiv.
 -   **Model Releases**
     - [x] Release **Agentar-Scale-SQL-Generation-32B** on Hugging Face and ModelScope.
     - [ ] Release **Agentar-Scale-SQL-Selection-32B** on Hugging Face and ModelScope.
 -   **Code Releases**
-    - [x] Release the code for the light schema engine.
-    - [x] Release the code for the offline data preprocessing pipeline.
-    - [ ] Release the code for task understanding and generating SQL candidates with closed-source models.
-    - [ ] Release the code for generating SQL candidates with the fine-tuned model.
-    - [ ] Release the code for the SQL selection module.
+    - [x] Release the code for the **Light Schema** engine.
+    - [x] Release the code for the **Offline Data Preprocessing Pipeline**.
+    - [ ] Release the code for **Task Understanding** and **Generating SQL Candidates with ICL Generators**.
+    - [ ] Release the code for **Generating SQL Candidates with the Reasoning Generator**.
+    - [ ] Release the code for the **Iterative Refinement** module.
+    - [ ] Release the code for the **SQL Selection** module.
 
 ---
 
