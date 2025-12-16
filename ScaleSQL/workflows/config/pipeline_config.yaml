@@ -1,6 +1,6 @@
 # dataset folder
-dataset_folder: /Users/user/Documents/Dataset/dev_20240627
-column_meaning_path: /Users/user/Downloads/dev_column_meaning.json
+dataset_folder: /Users/bguo/Documents/RSL-SQL/database
+column_meaning_path: /Users/bguo/Documents/Agentar-Scale-SQL/resources/column_meaning.json
 
 # module llm config
 module_configs:
